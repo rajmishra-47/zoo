@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "name":"AFRICAN FOREST ELEPHANT",
+        "Details":" African forest elephants are the elusive cousin of the African savanna elephant. They inhabit the dense rainforests of west and central Africa. Their preference for dense forest habitat prohibits traditional counting methods such as visual identification. Their population is usually estimated through dung counts—an analysis on the ground of the density and distribution of the feces.African forest elephants are smaller than African savanna elephants, the other African elephant species. Their ears are more oval-shaped and their tusks are straighter and point downward (the tusks of savanna elephants curve outwards). There are also differences in the size and shape of the skull and skeleton. Forest elephants also have a much slower reproductive rate than savanna elephants, so they cannot bounce back from population declines as quickly at the same rate. Their last strongholds are located in Gabon and the Republic of Congo, with smaller populations remaining in other African countries (Cameroon, Central African Republic, Equatorial Guinea) and Côte d'Ivoire, Liberia, and Ghana in west Africa.African forest elephants live in family groups of up to 20 individuals and forage on leaves, grasses, seeds, fruit, and tree bark. Since the diet of forest elephants is dominated by fruit, they play a crucial role in dispersing many tree species, particularly the seeds of large trees which tend to have high carbon content. They are therefore referred to as the 'mega-gardener of the forest'. To supplement their diet with minerals, they gather at mineral-rich waterholes and mineral licks found throughout the forest. ",
+
+        "Status":"Critically Endangered"
+
+    },
+
+    {
+        "id":"2",
+        "name":"AMUR LEOPARD",
+        "Details":" People usually think of leopards in the savannas of Africa but in the Russian Far East, a rare subspecies has adapted to life in the temperate forests that make up the northern-most part of the species’ range. Similar to other leopards, the Amur leopard can run at speeds of up to 37 miles per hour. This incredible animal has been reported to leap more than 19 feet horizontally and up to 10 feet vertically.The Amur leopard is solitary. Nimble-footed and strong, it carries and hides unfinished kills so that they are not taken by other predators. It has been reported that some males stay with females after mating, and may even help with rearing the young. Several males sometimes follow and fight over a female. They live for 10-15 years, and in captivity up to 20 years. The Amur leopard is also known as the Far East leopard, the Manchurian leopard or the Korean leopard. ",
+
+        "Status":"Critically Endangered"
+    },
+
+    {
+        "id":"3",
+        "name":"BLACK RHINO",
+        "Details":" Black rhinos are the smaller of the two African rhino species. The most notable difference between white and black rhinos are their hooked upper lip. This distinguishes them from the white rhino, which has a square lip. Black rhinos are browsers rather than grazers, and their pointed lip helps them feed on leaves from bushes and trees. They have two horns, and occasionally a third, small posterior horn.Populations of black rhino declined dramatically in the 20th century at the hands of European hunters and settlers. Between 1960 and 1995, black rhino numbers dropped by a sobering 98%, to less than 2,500. Since then, the species has made a tremendous comeback from the brink of extinction. Thanks to persistent conservation efforts across Africa, black rhino numbers have doubled from their historic low 20 years ago to around 5,500 today. However, the black rhino is still considered critically endangered, and a lot of work remains to bring the numbers up to even a fraction of what it once was—and to ensure that it stays there. Wildlife crime—in this case, poaching and black-market trafficking of rhino horn—continues to plague the species and threaten its recovery.",
+
+        "Status":"Critically Endangered"
+    },
+    
+    {
+        "id":"4",
+        "name":"BORNEAN ORANGUTAN",
+        "Details":" Bornean orangutan populations have declined by more than 50% over the past 60 years, and the species' habitat has been reduced by at least 55% over the past 20 years.The Bornean orangutan differs in appearance from the Sumatran orangutan, with a broader face and shorter beard and also slightly darker in color. Three subspecies are recognized, each localized to different parts of the island:Northwest Bornean orangutans are the most threatened subspecies. Its habitat has been seriously affected by logging and hunting, and a mere 1,500 individuals or so remain. Many habitat patches in the area are small and fragmented.Northeast Bornean orangutans are the smallest in size and found in Sabah and eastern Kalimantan as far as the Mahakam River. Central Bornean orangutans are the subspecies with the most animals, with at least 35,000 individuals.",
+
+        "Status":"Critically Endangered"
+    }
+]
